@@ -15,7 +15,7 @@ def load_model():
 def query_llm(prompt: str) -> str:
     API_URL = "https://router.huggingface.co/v1/chat/completions"
     headers = {
-        "Authorization": f"Bearer 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",
+        "Authorization": f"Bearer {os.environ['HF_TOKEN']}",
     }
     payload = {
         "messages": [
