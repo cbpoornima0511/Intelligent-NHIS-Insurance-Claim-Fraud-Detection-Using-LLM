@@ -361,15 +361,7 @@ git commit -m "Add: your feature description"
 # 4. Push and open a Pull Request
 git push origin feature/your-feature
 ```
-
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👩‍💻 Author
 
 **Poornima C B**
