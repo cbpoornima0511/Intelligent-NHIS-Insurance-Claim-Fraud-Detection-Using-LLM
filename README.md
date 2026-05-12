@@ -6,7 +6,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Classifier-189AB4?style=for-the-badge)](https://xgboost.readthedocs.io)
 [![LLM](https://img.shields.io/badge/LLM-Llama_3.1_8B-FF6F00?style=for-the-badge&logo=meta&logoColor=white)](https://huggingface.co/meta-llama)
-[![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
 
 **An end-to-end intelligent fraud detection system that combines an XGBoost classifier with Meta's Llama 3.1 8B LLM to detect fraudulent NHIS healthcare insurance claims — delivering predictions, natural language explanations, investigation reports, and decision recommendations through an interactive Streamlit dashboard.**
 
