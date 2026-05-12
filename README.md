@@ -12,7 +12,6 @@
 [📌 Overview](#-project-overview) • [🏗️ Architecture](#️-system-architecture) • [📊 Dataset](#-dataset) • [🚀 Quick Start](#-quick-start) • [📈 Results](#-model-performance) • [🖥️ Demo](#️-app-walkthrough)
 
 </div>
-
 ---
 
 ## 📋 Table of Contents
