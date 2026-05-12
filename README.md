@@ -376,7 +376,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 *Data Science & AI/ML Engineer*
 
 [![GitHub](https://img.shields.io/badge/GitHub-cbpoornima0511-181717?style=flat-square&logo=github)](https://github.com/cbpoornima0511)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/poornima-chandrashekhar-balagondar)
 
 ---
 
